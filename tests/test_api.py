@@ -1,6 +1,6 @@
 import os
 import unittest
-from datetime import date
+from _datetime import date
 
 from project import app, db
 from project._config import basedir
